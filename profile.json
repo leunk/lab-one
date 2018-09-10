@@ -1,0 +1,18 @@
+{
+    "firstName" : "Jasper",
+    "lastName" : "Lo",
+    "displayHandle" : "loJas",
+    "posts" : [
+        {
+            "posts": "Ready for a new adventure, checking out a new hiking trail"
+        },
+        {
+            "posts": "Going out for a walk. Hope it doesn't rain!"
+        },
+        {
+            "posts" : "Lazy Sunday, having a chill day"
+        }
+    ],
+    "age":"6",
+    "active":"true"
+}

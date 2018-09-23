@@ -1,0 +1,36 @@
+{
+	"name": [
+		"Justin",
+		"Madison",
+		"Elissa",
+		"Jessica",
+		"Caleb",
+		"Brody"
+	],
+	"occupation": [
+		"Engineer",
+		"Graphic Designer",
+		"Salesman",
+		"Activist",
+		"Youtuber",
+		"Filmmaker"
+	],
+	"origin": [
+		"#name#, a #occupation#,would #always# #expecting# something so #ending#."
+	],
+	"always": [
+		"never",
+		"rarely",
+		"often"
+	],
+	"expecting": [
+		"imagine",
+		"envision"
+	],
+	"ending": [
+		"beautiful",
+		"shocking",
+		"brutal",
+		"amazing"
+	]
+}
